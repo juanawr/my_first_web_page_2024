@@ -11,3 +11,4 @@ This is the repository of Activity III.
 - Added styles.css in the index file as link.
 - Added about.html page and modified links and styles of the header menu.
 - Added topic.html page and modified links and styles of the header menu.
+- Added net.html page and modified links and styles of the header menu.
