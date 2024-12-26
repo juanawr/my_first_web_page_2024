@@ -8,3 +8,5 @@ This is the repository of Activity III.
 - Added images to content section.
 - Added content and menu.
 - Added styles.css file in css folder
+- Added styles.css in the index file as link.
+- Added about.html page and modified links and styles of the header menu.
