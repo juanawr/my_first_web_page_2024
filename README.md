@@ -7,3 +7,4 @@ This is the repository of Activity III.
 - Added footer and header.
 - Added images to content section.
 - Added content and menu.
+- Added styles.css file in css folder
