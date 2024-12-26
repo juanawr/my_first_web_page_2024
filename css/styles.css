@@ -204,3 +204,27 @@ footer-section a:hover {
 .contact-section ul li {
     margin-bottom: 5px;
 }
+
+.degree-section {
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.degree-section p {
+    margin: 10px;
+}
+
+.degree-section h1, .degree-section h2 {
+    color: #333;
+}
+
+.degree-section ul {
+    list-style: disc;
+    padding-left: 15px;
+}
+
+.degree-section ul li {
+    margin-bottom: 5px;
+}
