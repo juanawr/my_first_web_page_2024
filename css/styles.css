@@ -56,10 +56,12 @@ nav a.active {
 .content {
     height: 1000px;
     width: 1200px;
-    display: center;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 50px;
+    padding: 20px 0;
     background-color: #90949a;
 }
 
