@@ -60,9 +60,9 @@ nav a.active {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 50px;
-    padding: 20px 0;
+    margin: auto;
     background-color: #90949a;
+    border-radius: 5px;
 }
 
 .menu {
