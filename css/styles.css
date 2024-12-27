@@ -10,7 +10,6 @@ body {
     max-width: 1440px;
     width: 100%;
     margin: 0 auto;
-    overflow: hidden;
 }
 
 header {
@@ -56,12 +55,13 @@ nav a.active {
 
 .content {
     height: 1000px;
-    width: 1000px;
+    width: 1200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #a09eb1;
+    background-color: #91909a;
+    padding: 20px 0;
 }
 
 .menu {
