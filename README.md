@@ -14,3 +14,4 @@ This is the repository of Activity III.
 - Added net.html page and modified links and styles of the header menu.
 - Added contact.html page and modified links and styles of the header menu.
 - Added degree.html page and modified links and styles of the header menu.
+- Added fce.html page and modified links and styles of the header menu.
