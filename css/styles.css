@@ -132,6 +132,7 @@ nav a.active {
 .footer-section a {
     color: lightblue;
     text-decoration: none;
+    background-color: lightblue;
 }
 
 .footer-section a:hover {
