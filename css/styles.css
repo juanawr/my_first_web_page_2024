@@ -167,6 +167,20 @@ nav a.active {
     margin-right: 70px;
 }
 
+.about-section .container-about {
+    width: 330px;
+    height: 800px;
+    margin-right: 820px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #aeb2ba;
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+}
+
 .about-section h1, .about-section h2 {
     color: #333;
 }
