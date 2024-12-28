@@ -192,15 +192,15 @@ nav a.active {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #4e535c;
+    background-color: #333;
     border-radius: 10px;
     margin-bottom: 10px; 
 }
 
-.social-media {
+.about-section .social-media {
     display: flex;
     justify-content: center; 
-    gap: 20px; 
+    gap: 150px; 
 }
 
 .topic-section {
