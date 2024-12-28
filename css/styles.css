@@ -10,6 +10,7 @@ body {
     max-width: 1440px;
     width: 100%;
     margin: 0 auto;
+    background-color: #eaeaea;
 }
 
 header {
@@ -124,8 +125,8 @@ nav a.active {
 .footer-section {
     max-width: 1440px;
     width: 100%;
-    background-color: lightblue;
-    color: #333;
+    background-color: #333;
+    color: white;
     text-align: center;
 }
 
