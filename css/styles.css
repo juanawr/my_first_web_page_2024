@@ -127,7 +127,6 @@ nav a.active {
     background-color: #333;
     color: white;
     text-align: center;
-    left: 10px;
 }
 
 .footer-section a {
@@ -155,7 +154,7 @@ nav a.active {
 
 .about-section .top-picture {
     position: absolute;
-    top: 100px; 
+    top: 500px; 
     left: 50px; 
     width: 275px;
     height: 300px; 
