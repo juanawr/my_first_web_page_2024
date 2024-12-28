@@ -140,7 +140,7 @@ nav a.active {
 
 .about-section {
     width: 1150px;
-    height: 800px;
+    height: 500px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -171,6 +171,10 @@ nav a.active {
     color: #333;
 }
 
+.about-section h3 {
+    color: white;
+}
+
 .about-section ul {
     list-style: disc;
     padding-left: 15px;
@@ -182,7 +186,7 @@ nav a.active {
 
 .about-section .container-about {
     width: 1150px;
-    height: 250px;
+    height: 150px;
     margin: auto;
     display: flex;
     flex-direction: column;
