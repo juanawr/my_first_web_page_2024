@@ -154,7 +154,7 @@ nav a.active {
 
 .about-section .top-picture {
     position: absolute;
-    top: 500px; 
+    top: 100px; 
     left: 50px; 
     width: 275px;
     height: 300px; 
@@ -164,6 +164,7 @@ nav a.active {
 
 .about-section p {
     margin: 10px;
+    left: 350px;
 }
 
 .about-section h1, .about-section h2 {
