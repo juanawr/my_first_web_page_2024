@@ -163,6 +163,10 @@ nav a.active {
     border-radius: 5px;
 }
 
+.about-section p {
+    margin: 10px;
+}
+
 .about-section h1, .about-section h2 {
     color: #333;
 }
