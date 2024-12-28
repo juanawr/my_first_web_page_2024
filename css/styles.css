@@ -153,7 +153,13 @@ nav a.active {
 .about-section picture {
     height: 150px;
     width: 100px;
-    padding: 20px;
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    width: 100px;
+    height: 100px; 
+    object-fit: cover;
+    border-radius: 5px;
 }
 
 .about-section h1, .about-section h2 {
