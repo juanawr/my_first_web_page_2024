@@ -16,6 +16,7 @@ header {
     background-color: #333;
     color: white;
     padding: 20px 0;
+    left: 10px;
     text-align: center;
 }
 
@@ -160,7 +161,6 @@ nav a.active {
     height: 300px; 
     object-fit: cover;
     border-radius: 5px;
-    border: 2.5px lightblue;
 }
 
 .about-section p {
