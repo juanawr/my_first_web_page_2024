@@ -140,7 +140,7 @@ nav a.active {
 
 .about-section {
     width: 1150px;
-    height: 500px;
+    height: 700px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -190,11 +190,13 @@ nav a.active {
     margin: auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
+    gap: 100px;
     align-items: center;
     background-color: #4e535c;
     border-radius: 10px;
     margin-bottom: 10px;
+    
 }
 
 .topic-section {
