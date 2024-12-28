@@ -197,6 +197,12 @@ nav a.active {
     margin-bottom: 10px; 
 }
 
+.social-media {
+    display: flex;
+    justify-content: center; 
+    gap: 20px; 
+}
+
 .topic-section {
     padding: 20px;
     background: #f4f4f4;
