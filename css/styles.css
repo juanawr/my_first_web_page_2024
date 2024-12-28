@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: Bodoni, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -28,6 +28,18 @@ header {
 .header-title {
     font-size: 1.5rem;
     align-items: center;
+}
+
+.header-with-image {
+    display: flex; 
+    align-items: center; 
+    gap: 15px; 
+}
+
+.header-image {
+    width: 30px;
+    height: 30px; 
+    object-fit: cover; 
 }
 
 nav {
@@ -78,18 +90,6 @@ nav a.active {
     margin-bottom: 10px;
 }
 
-.header-with-image {
-    display: flex; 
-    align-items: center; 
-    gap: 15px; 
-}
-
-.header-image {
-    width: 30px;
-    height: 30px; 
-    object-fit: cover; 
-}
-
 .menu {
     background-color: #1a1a2e;
     color: white;
@@ -116,8 +116,8 @@ nav a.active {
 }
 
 .menu-icon {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     object-fit: cover;
 }
 
