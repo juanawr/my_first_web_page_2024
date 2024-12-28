@@ -150,8 +150,10 @@ nav a.active {
     border-radius: 10px;
 }
 
-.about-section p {
-    margin: 10px;
+.about-section picture {
+    height: 150px;
+    width: 100px;
+    padding: 20px;
 }
 
 .about-section h1, .about-section h2 {
