@@ -78,6 +78,11 @@ nav a.active {
     margin-bottom: 10px;
 }
 
+.home-icon {
+    width: 20px;
+    height: 20px;
+}
+
 .menu {
     background-color: #1a1a2e;
     color: white;
