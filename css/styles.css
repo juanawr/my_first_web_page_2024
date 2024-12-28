@@ -16,7 +16,6 @@ header {
     background-color: #333;
     color: white;
     padding: 20px 0;
-    left: 10px;
     text-align: center;
 }
 
@@ -128,6 +127,7 @@ nav a.active {
     background-color: #333;
     color: white;
     text-align: center;
+    left: 10px;
 }
 
 .footer-section a {
