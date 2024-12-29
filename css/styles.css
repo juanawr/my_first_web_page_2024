@@ -12,6 +12,12 @@ body {
     margin: 0 auto;
 }
 
+.picture-side-by-side {
+    display: flex;
+    justify-content: center; 
+    gap: 50px; 
+}
+
 header {
     background-color: #333;
     color: white;
@@ -182,7 +188,7 @@ nav a.active {
 
 .about-section .container-about {
     width: 200px;
-    height: 200px;
+    height: 190px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -192,12 +198,6 @@ nav a.active {
     position: relative;
     right: 420px;
     bottom: 110px;
-}
-
-.picture-side-by-side {
-    display: flex;
-    justify-content: center; 
-    gap: 50px; 
 }
 
 .topic-section {
