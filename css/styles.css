@@ -189,9 +189,9 @@ nav a.active {
     align-items: center;
     background-color: #4e535c;
     border-radius: 10px;
-    margin-bottom: 10px; 
     position: relative;
-    left: 330px;
+    right: 330px;
+    bottom: 10;
 }
 
 .about-section .social-media {
