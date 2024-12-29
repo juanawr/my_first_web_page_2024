@@ -375,6 +375,7 @@ nav a.active {
   .degree-section details {
   cursor: pointer;
   background-color: #92969d;
+  align-items: center;
   color: #333;
   border-radius: 5px;
 }
