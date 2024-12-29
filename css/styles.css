@@ -416,7 +416,9 @@ summary {
 }
 
 .fce-section p {
-    margin: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
 }
 
 .fce-section h1, .fce-section h2 {
