@@ -445,11 +445,8 @@ nav a.active {
 }
 .form-group input {
     width: 100%;
-    padding: 10px;
     font-size: 1rem;
     border-radius: 5px;
-    outline: none;
-    transition: border-color 0.3s;
 }
 
 button[type="submit"] {
