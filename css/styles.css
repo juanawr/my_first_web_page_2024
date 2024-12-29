@@ -481,19 +481,17 @@ summary {
 
 .net-section .net-grid {
     display: grid;
-    grid-template-columns: 300px 350px;
-    grid-template-rows: 300px 350px;
+    grid-template-columns: repeat(2, 1fr);
     gap: 20px; 
     justify-items: center;
+    background-color: #92969d;
 }
 
-.net-section .net-container {
+.net-section .net-container img {
     width: 100%;
     max-width: 350px;
     height: auto;
     border-radius: 10px;
-    background-color: #92969d;
-    gap: 20px;
 }
 
 .contact-section {
