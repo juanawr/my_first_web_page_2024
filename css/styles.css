@@ -366,6 +366,28 @@ nav a.active {
     border-radius: 5px;
 }
 
+.degree-section .info-container {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  .degree-section .toggle-button {
+    background-color: #92969d;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .degree-section .info-content {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #92969d;
+    border: none;
+    border-radius: 5px;
+    display: none; 
+  }
+
 .fce-section {
     padding: 20px;
     background: #f4f4f4;
