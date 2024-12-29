@@ -483,7 +483,6 @@ summary {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px; 
-    border-radius: 10px;
     justify-items: center;
     background-color: #92969d;
 }
