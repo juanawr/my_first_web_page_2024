@@ -139,7 +139,7 @@ nav a.active {
 }
 
 .about-section {
-    width: 1150px;
+    width: 1200px;
     height: 500px;
     margin: auto;
     display: flex;
@@ -381,7 +381,7 @@ nav a.active {
 }
 
 .contact-section {
-    height: 1150px;
+    height: 800px;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -390,6 +390,19 @@ nav a.active {
     margin: auto;
     background-color: #4e535c;
     border-radius: 5px;
+}
+
+.contact-container {
+    width: 1150px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #92969d;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .contact-section p {
@@ -428,7 +441,7 @@ nav a.active {
         margin-bottom: 5px;
 }
 
-.form-group input, .form-group textarea {
+.form-group input {
     width: 100%;
     padding: 10px;
     font-size: 1rem;
