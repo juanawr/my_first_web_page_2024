@@ -426,6 +426,7 @@ summary {
 .fce-section ul {
     list-style: disc;
     padding-left: 15px;
+    text-align: left;
 }
 
 .degree-section ul li {
