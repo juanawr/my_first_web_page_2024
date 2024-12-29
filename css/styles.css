@@ -156,8 +156,8 @@ nav a.active {
     position: absolute;
     top: 50px; 
     left: 50px; 
-    width: 175px;
-    height: 250px; 
+    width: 200px;
+    height: 275px; 
     object-fit: cover;
     border-radius: 5px;
 }
@@ -181,9 +181,8 @@ nav a.active {
 }
 
 .about-section .container-about {
-    width: 300px;
-    height: auto;
-    object-fit: cover;
+    width: 330px;
+    height: 170px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -192,7 +191,7 @@ nav a.active {
     border-radius: 10px;
     position: relative;
     right: 400px;
-    bottom: 100px;
+    bottom: 120px;
 }
 
 .about-section .social-media {
