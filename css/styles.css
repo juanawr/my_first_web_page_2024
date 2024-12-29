@@ -346,6 +346,16 @@ nav a.active {
     margin-left: 50px;
 }
 
+.degree-section .top-pictures {
+    position: absolute;
+    top: 20px; 
+    right: 100px; 
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+    border-radius: 5px;
+}
+
 .fce-section {
     padding: 20px;
     background: #f4f4f4;
