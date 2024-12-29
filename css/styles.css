@@ -155,7 +155,7 @@ nav a.active {
 .about-section .top-picture {
     position: absolute;
     top: 50px; 
-    left: 100px; 
+    left: 50px; 
     width: 250px;
     height: 275px; 
     object-fit: cover;
