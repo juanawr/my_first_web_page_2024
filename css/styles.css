@@ -63,7 +63,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #333;
 }
 
 nav a.active {
@@ -404,10 +404,15 @@ nav a.active {
 }
 
 .fce-section {
-    padding: 20px;
-    background: #f4f4f4;
-    border-radius: 8px;
-    margin: 20px;
+    height: auto;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #4e535c;
+    border-radius: 5px;
 }
 
 .fce-section p {
