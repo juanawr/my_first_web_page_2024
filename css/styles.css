@@ -306,7 +306,7 @@ nav a.active {
 }
 
 .degree-section {
-    height: 1500px;
+    height: 2500px;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -370,7 +370,7 @@ nav a.active {
 }
 
 .degree-section .degree-container {
-    width: 1000px;
+    width: 1100px;
     height: 200px;
     margin: auto;
     display: flex;
