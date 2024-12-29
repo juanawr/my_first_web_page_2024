@@ -224,6 +224,19 @@ nav a.active {
     margin-bottom: 10px;
 }
 
+.topic-section .description-tech {
+    width: 1150px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #92969d;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
 .topic-section p {
     margin: 10px;
     text-align: justify;
