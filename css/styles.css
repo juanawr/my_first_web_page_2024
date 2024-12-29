@@ -404,7 +404,7 @@ nav a.active {
 }
 
 .fce-section {
-    height: auto;
+    height: 1150px;
     width: 1200px;
     display: flex;
     flex-direction: column;
