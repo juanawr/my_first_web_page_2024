@@ -182,6 +182,7 @@ nav a.active {
 
 .about-section .container-about {
     width: 300px;
+    height: auto;
     object-fit: cover;
     display: flex;
     flex-direction: column;
