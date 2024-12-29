@@ -393,8 +393,8 @@ nav a.active {
 }
 
 .contact-container {
-    width: 1150px;
-    height: 500px;
+    width: 800px;
+    height: 600px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -428,6 +428,7 @@ nav a.active {
     gap: 15px;
 }
 .form-row {
+    width: 500px;
     display: flex;
     gap: 20px;
     justify-content: space-between;
@@ -442,7 +443,6 @@ nav a.active {
         color: #333;
         margin-bottom: 5px;
 }
-
 .form-group input {
     width: 100%;
     padding: 10px;
@@ -458,6 +458,6 @@ button[type="submit"] {
     background-color: lightblue;
     border-radius: 5px;
     cursor: pointer;
-    width: 200px;
-    height: 80px;
+    width: 150px;
+    height: 50px;
 }
