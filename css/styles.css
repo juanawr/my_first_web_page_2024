@@ -155,7 +155,7 @@ nav a.active {
 .about-section .top-picture {
     position: absolute;
     top: 50px; 
-    left: 50px; 
+    left: 100px; 
     width: 200px;
     height: 275px; 
     object-fit: cover;
@@ -191,7 +191,7 @@ nav a.active {
     border-radius: 10px;
     position: relative;
     right: 400px;
-    bottom: 120px;
+    bottom: 110px;
 }
 
 .about-section .social-media {
