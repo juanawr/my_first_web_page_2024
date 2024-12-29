@@ -329,9 +329,8 @@ nav a.active {
 
 .degree-section ul {
     list-style: disc;
-    margin-left: 80px;
-    margin-right: 80px;
     text-align: left;
+    align-items: center;
 }
 
 .degree-section ul li {
