@@ -379,6 +379,7 @@ nav a.active {
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
+}
 
 .degree-section .info-container {
     width: 1150px;
@@ -386,7 +387,7 @@ nav a.active {
     margin-bottom: 20px;
     align-items: center;
     text-align: center;
-  }
+}
 
   .degree-section details {
   cursor: pointer;
