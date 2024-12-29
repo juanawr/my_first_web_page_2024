@@ -414,6 +414,11 @@ nav a.active {
     flex-direction: column;
     gap: 15px;
 }
+.form-row {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
 .form-group {
     display: flex;
 }
@@ -423,7 +428,7 @@ nav a.active {
         margin-bottom: 5px;
 }
 
-.form-group input {
+.form-group input, .form-group textarea {
     width: 100%;
     padding: 10px;
     font-size: 1rem;
@@ -431,11 +436,9 @@ nav a.active {
 }
 
 button[type="submit"] {
-    padding: 10px 15px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: white;
     background-color: lightblue;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s;
 }
