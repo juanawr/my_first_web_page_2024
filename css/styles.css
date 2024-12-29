@@ -346,12 +346,21 @@ nav a.active {
     margin-left: 50px;
 }
 
-.degree-section .top-pictures {
+.degree-section .top-picture1 {
     position: absolute;
     top: 200px; 
-    right: 670px; 
+    right: 650px; 
     width: 150px;
     height: 150px; 
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.degree-section .top-picture2 {
+    position: absolute;
+    top: 400px; 
+    right: 400px; 
+    width: 300px;
     object-fit: cover;
     border-radius: 5px;
 }
