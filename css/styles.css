@@ -334,7 +334,7 @@ nav a.active {
 
 .degree-section .intro {
     width: 350px;
-    height: 350px;
+    height: 300px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -343,6 +343,7 @@ nav a.active {
     background-color: #92969d;
     border-radius: 10px;
     margin-bottom: 10px;
+    margin-left: 20px;
 }
 
 .fce-section {
