@@ -348,8 +348,8 @@ nav a.active {
 
 .degree-section .top-pictures {
     position: absolute;
-    top: 100px; 
-    left: 400px; 
+    top: 200px; 
+    right: 600px; 
     width: 150px;
     height: 150px; 
     object-fit: cover;
