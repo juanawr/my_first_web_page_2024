@@ -368,8 +368,8 @@ nav a.active {
 
 .degree-section .info-container {
     width: 1150px;
-    display: inline;
     margin-bottom: 20px;
+    margin-top: -20px;
     align-items: center;
     text-align: center;
   }
