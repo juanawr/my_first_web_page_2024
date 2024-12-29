@@ -381,7 +381,7 @@ nav a.active {
     text-align: center;
 }
 
-.degree-section .info-container {
+.info-container {
     width: 100%;
     max-width: 1150px;
     margin:10px auto;
@@ -389,7 +389,7 @@ nav a.active {
     text-align: center;
 }
 
-.degree-section details {
+details {
     cursor: pointer;
     background-color: #92969d;
     color: #333;
@@ -398,7 +398,7 @@ nav a.active {
     margin-bottom: 15px;
 }
 
-.degree-section summary {
+summary {
     outline: none;
     font-size: 1rem;
 }
