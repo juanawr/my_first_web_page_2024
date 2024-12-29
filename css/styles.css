@@ -432,6 +432,19 @@ nav a.active {
     margin-bottom: 5px;
 }
 
+.fce-section .fce-container {
+    width: 1150px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #92969d;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
 .net-section {
     padding: 20px;
     background: #f4f4f4;
