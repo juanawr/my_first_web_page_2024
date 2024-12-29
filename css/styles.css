@@ -388,7 +388,7 @@ nav a.active {
     justify-content: center;
     align-items: center;
     margin: auto;
-    background-color: #4e535c;
+    background-color: #92969d;
     border-radius: 5px;
 }
 
@@ -400,7 +400,7 @@ nav a.active {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #92969d;
+    background-color: #4e535c;
     border-radius: 10px;
     margin-bottom: 10px;
 }
@@ -450,6 +450,7 @@ nav a.active {
     border: none;
     outline: none;
     transition: border-color 0.3s;
+    background-color: #92969d;
 }
 
 button[type="submit"] {
