@@ -318,7 +318,8 @@ nav a.active {
 }
 
 .degree-section p {
-    margin: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
     text-align: justify;
 }
 
@@ -369,8 +370,8 @@ nav a.active {
 }
 
 .degree-section .degree-container {
-    width: 1150px;
-    height: 300px;
+    width: 1000px;
+    height: 200px;
     margin: auto;
     display: flex;
     flex-direction: column;
