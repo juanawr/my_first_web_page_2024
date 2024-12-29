@@ -180,6 +180,8 @@ nav a.active {
 .about-section ul {
     list-style: disc;
     padding-left: 15px;
+    margin-left: 335px;
+    margin-right: 70px;
 }
 
 .about-section ul li {
@@ -366,13 +368,25 @@ nav a.active {
     border-radius: 5px;
 }
 
+.degree-section .degree-container {
+    width: 1150px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #92969d;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
 .degree-section .info-container {
     width: 1150px;
     margin-bottom: 20px;
     align-items: center;
     text-align: center;
-    position: relative;
-    top: -840px;
   }
 
   .degree-section details {
