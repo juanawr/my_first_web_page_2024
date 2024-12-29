@@ -488,8 +488,9 @@ summary {
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
-    margin-top: 10px;
-    margin-left: 50px;
+    position:relative;
+    top: 10px;
+    left: 50px;
 }
 .net-section .net-container2 {
     width: 400px;
@@ -501,8 +502,9 @@ summary {
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
-    margin-top: 10px;
-    margin-right: 50px;
+    position:relative;
+    top: 10px;
+    right: 50px;
 }
 .net-section .net-container3 {
     width: 400px;
@@ -514,10 +516,11 @@ summary {
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
-    margin-bottom: 10px;
-    margin-left: 50px;
+    position:relative;
+    bottom: 10px;
+    left: 50px;
 }
-.net-section .net-container1 {
+.net-section .net-container4 {
     width: 400px;
     height: 300px;
     margin: auto;
@@ -527,8 +530,9 @@ summary {
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
-    margin-bottom: 10px;
-    margin-right: 50px;
+    position:relative;
+    bottom: 10px;
+    right: 50px;
 }
 
 .contact-section {
