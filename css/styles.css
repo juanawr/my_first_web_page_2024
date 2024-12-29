@@ -481,7 +481,8 @@ summary {
 
 .net-section .net-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); 
+    grid-template-columns: 300px 350px;
+    grid-template-rows: 300px 350px;
     gap: 20px; 
     justify-items: center;
 }
