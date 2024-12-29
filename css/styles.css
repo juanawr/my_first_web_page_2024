@@ -254,6 +254,18 @@ nav a.active {
     border-radius: 10px;
     margin-bottom: 10px;
 }
+.topic-section .a-d {
+    width: 1150px;
+    height: 310px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #92969d;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
 
 .degree-section {
     padding: 20px;
