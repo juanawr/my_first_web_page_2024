@@ -181,8 +181,8 @@ nav a.active {
 }
 
 .about-section .container-about {
-    width: 330px;
-    height: 170px;
+    width: 200px;
+    height: 180px;
     display: flex;
     flex-direction: column;
     justify-content: center;
