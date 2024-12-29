@@ -72,7 +72,7 @@ nav a.active {
 }
 
 .content {
-    height: 1000px;
+    height: auto;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -146,7 +146,7 @@ nav a.active {
 
 .about-section {
     width: 1200px;
-    height: 500px;
+    height: auto;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -203,7 +203,7 @@ nav a.active {
 }
 
 .topic-section {
-    height: 2500px;
+    height: auto;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -462,7 +462,7 @@ summary {
 }
 
 .net-section {
-    height: 700px;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -511,7 +511,7 @@ summary {
 }
 
 .contact-section {
-    height: 600px;
+    height: auto;
     width: 1200px;
     display: flex;
     flex-direction: column;
