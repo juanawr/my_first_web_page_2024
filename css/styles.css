@@ -194,14 +194,14 @@ nav a.active {
     bottom: 110px;
 }
 
-.about-section .social-media {
+.picture-side-by-side {
     display: flex;
     justify-content: center; 
     gap: 40px; 
 }
 
 .topic-section {
-    height: 2000px;
+    height: 2800px;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -244,7 +244,7 @@ nav a.active {
 }
 .topic-section .description-tech {
     width: 1150px;
-    height: 320px;
+    height: 500px;
     margin: auto;
     display: flex;
     flex-direction: column;
