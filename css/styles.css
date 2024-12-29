@@ -16,6 +16,7 @@ body {
     display: flex;
     justify-content: center; 
     gap: 50px; 
+    border-radius: 10px;
 }
 
 header {
@@ -349,7 +350,7 @@ nav a.active {
 .degree-section .top-picture1 {
     position: absolute;
     top: 230px; 
-    right: 650px; 
+    right: 600px; 
     width: 180px;
     height: 180px; 
     object-fit: cover;
