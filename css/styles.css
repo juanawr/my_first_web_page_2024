@@ -200,7 +200,7 @@ nav a.active {
 }
 
 .topic-section {
-    height: 1800px;
+    height: 2500px;
     width: 1200px;
     display: flex;
     flex-direction: column;
@@ -291,7 +291,7 @@ nav a.active {
 }
 .topic-section .cases {
     width: 1150px;
-    height: 320px;
+    height: 330px;
     margin: auto;
     display: flex;
     flex-direction: column;
