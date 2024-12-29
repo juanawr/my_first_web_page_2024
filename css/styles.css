@@ -431,12 +431,12 @@ nav a.active {
     display: flex;
     gap: 20px;
     justify-content: space-between;
-    width: 100%; 
 }
 .form-group {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
+    width: 100%;
 }
 .form-group label {
         font-size: 1rem;
