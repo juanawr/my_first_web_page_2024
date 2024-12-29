@@ -211,6 +211,24 @@ nav a.active {
     border-radius: 5px;
 }
 
+.topic-section p {
+    margin: 10px;
+    text-align: justify;
+}
+
+.topic-section h1, .tocpic-section h2 {
+    color: #333;
+}
+
+.topic-section ul {
+    list-style: disc;
+    padding-left: 15px;
+}
+
+.topic-section ul li {
+    margin-bottom: 5px;
+}
+
 .topic-section .introduction {
     width: 1150px;
     height: 305px;
@@ -235,24 +253,6 @@ nav a.active {
     background-color: #92969d;
     border-radius: 10px;
     margin-bottom: 10px;
-}
-
-.topic-section p {
-    margin: 10px;
-    text-align: justify;
-}
-
-.topic-section h1, .tocpic-section h2 {
-    color: #333;
-}
-
-.topic-section ul {
-    list-style: disc;
-    padding-left: 15px;
-}
-
-.topic-section ul li {
-    margin-bottom: 5px;
 }
 
 .degree-section {
