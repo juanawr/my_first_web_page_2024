@@ -198,6 +198,7 @@ nav a.active {
     position: relative;
     right: 420px;
     bottom: 110px;
+    box-sizing: border-box;
 }
 
 .topic-section {
