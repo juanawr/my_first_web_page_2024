@@ -191,6 +191,7 @@ nav a.active {
     border-radius: 10px;
     position: relative;
     right: 350px;
+    bottom: 10px;
 }
 
 .about-section .social-media {
