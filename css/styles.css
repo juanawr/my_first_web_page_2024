@@ -219,7 +219,11 @@ nav a.active {
     text-align: justify;
 }
 
-.topic-section h1, .topic-section h2 {
+.topic--section h1 {
+    color:#1a1a2e;
+}
+
+.topic-section h2 {
     color: #333;
 }
 
@@ -323,7 +327,11 @@ nav a.active {
     text-align: justify;
 }
 
-.degree-section h1, .degree-section h2 {
+.degree-section h1 {
+    color:#1a1a2e;
+}
+
+.degree-section h2 {
     color: #333;
 }
 
@@ -421,7 +429,11 @@ summary {
     text-align: justify;
 }
 
-.fce-section h1, .fce-section h2 {
+.fce-section h1 {
+    color:#1a1a2e;
+}
+
+.fce-section h2 {
     color: #333;
 }
 
@@ -465,7 +477,11 @@ summary {
     margin: 10px;
 }
 
-.net-section h1, .net-section h2 {
+.net-section h1 {
+    color:#1a1a2e;
+}
+
+.net-section h2 {
     color: #333;
     margin-bottom: 20px;
 }
@@ -522,7 +538,11 @@ summary {
     margin: 10px;
 }
 
-.contact-section h1, .contact-section h2 {
+.contact-section h1 {
+    color:#1a1a2e;
+}
+
+.contact-section h2 {
     color: #333;
 }
 
