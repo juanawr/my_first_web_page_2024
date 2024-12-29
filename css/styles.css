@@ -349,7 +349,7 @@ nav a.active {
 .degree-section .top-picture1 {
     position: absolute;
     top: 210px; 
-    right: 220px; 
+    right: 240px; 
     width: 180px;
     height: 180px; 
     object-fit: cover;
@@ -359,7 +359,7 @@ nav a.active {
 .degree-section .top-picture2 {
     position: absolute;
     top: 280px; 
-    right: 600px; 
+    right: 470px; 
     width: 350px;
     object-fit: cover;
     border-radius: 5px;
