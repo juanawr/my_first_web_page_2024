@@ -200,7 +200,7 @@ nav a.active {
 }
 
 .topic-section {
-    height: 2500px;
+    height: 2000px;
     width: 1200px;
     display: flex;
     flex-direction: column;
