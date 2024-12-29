@@ -372,13 +372,14 @@ nav a.active {
 .degree-section .degree-container {
     width: 900px;
     height: 200px;
-    margin-top: -300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #92969d;
     border-radius: 10px;
+    position: relative;
+    top: 300px;
 }
 
 .degree-section .info-container {
