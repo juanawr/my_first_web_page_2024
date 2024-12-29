@@ -381,17 +381,22 @@ nav a.active {
 }
 
 .contact-section {
-    padding: 20px;
-    background: #f4f4f4;
-    border-radius: 8px;
-    margin: 20px;
+    height: 1150px;
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #4e535c;
+    border-radius: 5px;
 }
 
 .contact-section p {
     margin: 10px;
 }
 
-.contact-section h1, .net-section h2 {
+.contact-section h1, .contact-section h2 {
     color: #333;
 }
 
@@ -402,4 +407,35 @@ nav a.active {
 
 .contact-section ul li {
     margin-bottom: 5px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.form-group {
+    display: flex;
+}
+.form-group label {
+        font-size: 1rem;
+        color: #333;
+        margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    padding: 10px 15px;
+    font-size: 1.5rem;
+    color: white;
+    background-color: lightblue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }

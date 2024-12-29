@@ -28,17 +28,29 @@
         </header>
         <main class="container">
             <div class="content contact-section">
-                <form>
-                    <label for="question1"> Name:</label><br>
-                    <input type="text" id="info"><br>
-                    <label for="question2"> Last Name:</label><br>
-                    <input type="text" id="info"><br>
-                    <label for="question2"> Email:</label><br>
-                    <input type="text" id="info"><br>
-                    <label for="question2"> Subject:</label><br>
-                    <input type="text" id="info"><br>
-                    <label for="question2"> Message:</label><br>
-                    <input type="text" id="info"><br>
+                <h1>Contact the Author</h1>
+                <form class="contact-form">
+                    <div class="form-group">
+                        <label for="name"> Name:</label><br>
+                        <input type="text" id="name" name="name" required><br>              
+                    </div>
+                    <div class="form-group">
+                        <label for="last-name"> Last Name:</label><br>
+                        <input type="text" id="last-name" name="last-name" required><br>              
+                    </div>
+                    <div class="form-group">
+                        <label for="email"> Email:</label><br>
+                        <input type="text" id="email" name="email" required><br>              
+                    </div>
+                    <div class="form-group">
+                        <label for="subject"> Subject:</label><br>
+                        <input type="text" id="subject" name="subject" required><br>              
+                    </div>
+                    <div class="form-group">
+                        <label for="message"> Message:</label><br>
+                        <input type="message" id="message" name="message" required><br>              
+                    </div>
+                    <button type="submit">Send Message</button>
                 </form>
             </div>
             <div class="menu">
