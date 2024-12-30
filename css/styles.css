@@ -189,7 +189,7 @@ nav a.active {
 }
 
 .about-section .container-about {
-    width: 200px;
+    width: 300px;
     height: 190px;
     display: flex;
     flex-direction: column;
